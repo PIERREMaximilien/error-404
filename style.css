@@ -1,3 +1,18 @@
 title {
   color: blue;
 }
+body {
+  background-color: beige;
+}
+header {
+  color: blue;
+}
+footer {
+  font-size: large;
+  position: relative;
+  top: center;
+  left: center;
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
